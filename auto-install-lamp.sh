@@ -130,4 +130,3 @@ phpinfo();
 EOF
 fi
 
-	wget -c $M_URL/$M_FILES &&tar -jxvf $M_FILES &&cd $M_FILES_DIR && yum install cmake -y ;cmake . -DCMAKE_INSTALL_PREFIX=$M_PREFIX \
