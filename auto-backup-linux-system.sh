@@ -11,7 +11,7 @@ MONTH=`date +%m`
 DAY=`date +%d`
 WEEK=`date +%u`
 A_NAME=`date +%H%M`
-FILES=system_backup.tgz
+FILES=${A_NAME}_system_backup.tgz
 CODE=$?
 if
 	[ -z "$*" ];then
