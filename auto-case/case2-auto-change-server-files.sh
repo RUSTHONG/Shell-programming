@@ -1,5 +1,6 @@
 #!/bin/zsh
 #auto change server files
+#批量拷贝文件至远程服务器
 #SRC=/etc/
 if [ ! -f ip.txt ];then
 	echo -e "\033[31mPlease Create ip.txt Files, The ip.txt contents as follows: \033[0m"
