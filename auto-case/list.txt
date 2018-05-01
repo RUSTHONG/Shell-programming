@@ -1,0 +1,8 @@
+#server monitor list
+httpd
+mysql
+php
+redis
+nginx
+nagios
+nfs

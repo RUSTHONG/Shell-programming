@@ -1,0 +1,9 @@
+*****************Server Monitor********************
+通知类型：故障
+服务：nfs
+主机：
+状态：警告
+日期/时间：Tue May  1 20:05:21 CST 2018
+额外信息：
+CRITICAL - nfs Server Connection Refused,Please check.
+***************************************************
