@@ -1,9 +1,7 @@
-*****************Server Monitor********************
+******************** Email *********************
 通知类型：故障
-服务：nfs
-主机：
+服务：Disk Monitor
+主机：10.4.104.90
 状态：警告
-日期/时间：Tue May  1 20:05:21 CST 2018
-额外信息：
-CRITICAL - nfs Server Connection Refused,Please check.
-***************************************************
+日期/时间：2018年 05月 05日 星期六 09:38:50 CST
+额外信息：CRITICAL - DISK Monitor:/dev/sda3 /media/hongyuan/F5486F63F027BC9E分区 Used more than 41%

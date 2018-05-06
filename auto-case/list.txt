@@ -1,8 +1,3 @@
-#server monitor list
-httpd
-mysql
-php
-redis
-nginx
-nagios
-nfs
+/dev/sda6        72G   15G   54G  22% /
+/dev/sda2       313G  118G  195G  38% /media/hongyuan/0688EE2E88EE1BC5
+/dev/sda3        79G   32G   47G  41% /media/hongyuan/F5486F63F027BC9E
